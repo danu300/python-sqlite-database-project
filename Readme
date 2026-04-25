@@ -1,0 +1,39 @@
+Student Course Registration System
+Description
+This is a simple command-line application developed using Python and SQLite.
+The system helps manage students, courses, and course registrations in a school environment.
+This project is created for learning purposes and to practice Python programming and database concepts.
+Features
+Add students
+Add courses
+Register students for courses
+View student course registrations
+Store data using SQLite database
+Technologies Used
+Python 3
+SQLite3
+How to Run
+Make sure Python 3 is installed
+Download or clone the repository
+Open a terminal in the project folder
+Run the program using: python main.py
+Menu Options
+Add Student
+Add Course
+Register Student
+View Registrations
+Exit
+Database Tables
+students (student_id, name, department)
+courses (course_id, course_name, credit)
+registrations (reg_id, student_id, course_id)
+Purpose of This Project
+Learn Python basics
+Practice SQLite database usage
+Understand relational database design
+Build a simple real-world system
+Author
+Danu
+Computer Science Student
+License
+This project is for educational purposes only.
